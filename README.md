@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rionagrace
 - 👀 I’m interested in becoming a full stack developer (I'm currently a Northcoders student)
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently planning my final project
 - 💞️ I’m looking to collaborate on any new exciting projects
 - 📫 How to reach me Riona McCumskay on LinkedIn
 - 😄 Pronouns: she/her
